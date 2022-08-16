@@ -239,3 +239,9 @@ p {
   .blog-entry .meta > div a {
     font-size: 15px;
     color: #8c8c8c; }
+
+.hashnode{
+  position: absolute;
+    bottom: 11px;
+    left: 9px;
+}
